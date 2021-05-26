@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Visitor Count](https://profile-counter.glitch.me/saidmg/count.svg)
-https://badges.pufler.dev/visits/saidmg/saidmg
 
