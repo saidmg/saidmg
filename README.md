@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there👋
+
+My name is Said Mghabghab, I graduated as a computer and communication engineer and then focused on pursuing full stack web development.
+- 🌱 I’m currently learning advanced CSS/JavaScript animation.
+- 📫 How to reach me: on LinkedIn: https://www.linkedin.com/in/said-mghabghab/ or by Email: Saidmghabghab@gmail.com
+- ⚡ I enjoy solving riddles and doing escape rooms.
+ 
+
+![Visitor Count](https://profile-counter.glitch.me/saidmg/count.svg)
 
 <!--
 **saidmg/saidmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Count](https://profile-counter.glitch.me/saidmg/count.svg)
-
