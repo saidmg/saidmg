@@ -5,6 +5,7 @@ My name is Said Mghabghab, I graduated as a computer and communication engineer 
 - 📫 How to reach me: on LinkedIn: https://www.linkedin.com/in/said-mghabghab/ or by Email: Saidmghabghab@gmail.com
 - ⚡ I enjoy solving riddles and doing escape rooms.
  
+![Saidmg's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidmg&theme=default&show_icons=true)
 
 ![Visitor Count](https://profile-counter.glitch.me/saidmg/count.svg)
 
