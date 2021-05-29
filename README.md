@@ -7,7 +7,7 @@ My name is Said Mghabghab, I graduated as a computer and communication engineer 
  
 ![Saidmg's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidmg&theme=default&show_icons=true)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=saidmg.saidmg)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/saidmg/count.svg)
