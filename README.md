@@ -6,9 +6,9 @@ My name is Said Mghabghab, I graduated as a computer and communication engineer 
 - ⚡ I enjoy solving riddles and doing escape rooms.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidmg&theme=tokyonight)
 
- 
+ ![Saidmg's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidmg&theme=default&show_icons=true)
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=saidmg.saidmg)
 
