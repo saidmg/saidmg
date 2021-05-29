@@ -10,8 +10,6 @@ My name is Said Mghabghab, I graduated as a computer and communication engineer 
 ![](https://visitor-badge.laobi.icu/badge?page_id=saidmg.saidmg)
 
 
-![Visitor Count](https://profile-counter.glitch.me/saidmg/count.svg)
-
 <!--
 **saidmg/saidmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
